@@ -6,6 +6,9 @@ environment: python 3.6
 - linked list
   - single linked list
   - double linked list
+- stack
+  - stack by array
+  - stack by linked list
 
 ## single linked list
 
@@ -36,6 +39,26 @@ environment: python 3.6
   - traversalFromStart
   - traversalFromEnd
   - remove
+
+## stack
+
+### characteristic
+last-in first-out(LIFO)
+
+### operations
+- basic
+  - is_empty
+  - push
+  - pop
+  - peek
+  - size
+
+### advanced
+- deque
+- min-stack
+
+### application
+- call stack
 
 ## Reference
 - [目錄：演算法與資料結構 Posted by Chiu CC](http://alrightchiu.github.io/SecondRound/mu-lu-yan-suan-fa-yu-zi-liao-jie-gou.html)
